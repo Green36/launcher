@@ -1,0 +1,52 @@
+﻿[AFXW]
+CFG=ON
+
+[EXT_NORMAL]
+E_000=xls xlsm xlsx csv
+N_000=""C:\Program Files (x86)\Microsoft Office\Office12\EXCEL.EXE" "$P\$F""
+E_001=doc docx docm dotm
+N_001=""C:\Program Files (x86)\Microsoft Office\Office12\WINWORD.EXE" "$P\$F""
+E_002=pdf
+N_002=""C:\Program Files (x86)\Adobe\Reader 11.0\Reader\AcroRd32.exe" "$P\$F""
+
+[KEY_DEF]
+KEY_12="&MENU $V"afx"\menu\menu.txt"
+KEY_13="&MENU $V"afx"\menu\jump.txt"
+KEY_14="&MENU $V"afx"\menu\copy.txt"
+KEY_17="&MENU $V"afx"\menu\zip.txt"
+KEY_18="&MENU $V"afx"\menu\path.txt"
+KEY_24="C:\TOOLS\launcher\clnch\clnch.exe --text $P\"
+KEY_25="C:\TOOLS\launcher\clnch\clnch.exe --text $P\$F"
+
+[REG_COL]
+COL_00=255
+EXT_00=exe
+COL_01=255
+EXT_01=bat
+COL_02=33023
+EXT_02=lnk
+COL_03=65535
+EXT_03=lzh zip cab rar tgz
+COL_04=16711935
+EXT_04=bmp jpg jpeg gif tif ico png
+COL_05=8388863
+EXT_05=ifo mp2 mpa m1a m2p m2a mpg mpeg m1v m2v mp2v mp4 divx mov qt ra rm ram rmvb rpm smi avi wmv asf mkv
+COL_06=8454016
+EXT_06=mp3 wav
+COL_07=32768
+EXT_07=m3u
+COL_08=16776960
+EXT_08=txt hlp csv mac
+COL_09=65280
+EXT_09=doc xls
+COL_10=16711680
+EXT_10=htm html url
+COL_11=12615808
+EXT_11=ini cfg dat bkp def key
+COL_12=8388736
+EXT_12=dll sys reg inf
+COL_13=128
+EXT_13=bak old tmp
+COL_14=8421631
+EXT_14=img iso
+

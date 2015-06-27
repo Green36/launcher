@@ -1,0 +1,14 @@
+
+*.exe
+*.zip
+*.txt
+*.ini
+*.ico
+*.dat
+path
+
+!dir/data/scan.ini
+!all/data/scan.ini
+!dir/cmd/*
+!all/cmd/*
+

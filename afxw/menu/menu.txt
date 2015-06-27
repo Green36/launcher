@@ -1,0 +1,6 @@
+afxw Menu
+"a: 新しいファイルをつくる" touch.exe "$P\新しいファイル.txt"
+"d: (diff) WinMerge" C:/Program Files/WinMerge/WinMergeU.exe /r /e /x /maximize $MF $mO
+"c: (command)コマンドプロンプトを開く" cmd.exe "$P"
+"---------------------"
+"z: このメニューを編集" C:/TOOLS/vim/gvim.exe $V"afx"/menu/menu.txt

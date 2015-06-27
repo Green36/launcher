@@ -1,0 +1,7 @@
+afxw Jump menu
+"p: Project" &CD "C:\path\to\Project\"
+"d: Document" &CD "C:\path\to\Documents\"
+"w: Download" &CD "C:\path\to\Downloads\"
+"t: Tool" &CD "C:\path\to\TOOLS\"
+"z: このファイルを編集" C:/TOOLS/vim/gvim.exe $V"afx"/menu/jump.txt
+

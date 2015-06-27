@@ -1,0 +1,3 @@
+[.***;
+afx-left|C:\TOOLS\afxw\AFXWCMD.EXE -l"%P"
+]

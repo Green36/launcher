@@ -1,0 +1,10 @@
+afx FastCopy
+"c: (copy forced)  コピー（全上書き）"   C:\TOOLS\launcher\fcopy\FastCopy.exe /open_window /cmd=force_copy /auto_close /error_stop /log /estimate $MF /to="$O\"
+"d: (diff)         差分（サイズ・日付）" C:\TOOLS\launcher\fcopy\FastCopy.exe /open_window /cmd=diff /auto_close /error_stop /log /estimate $MF /to="$O\"
+"n: (noexist_only) 差分（上書きなし）"   C:\TOOLS\launcher\fcopy\FastCopy.exe /open_window /cmd=noexist_only /auto_close /error_stop /log /estimate $MF /to="$O\"
+"u: (update)       差分（最新日付）"     C:\TOOLS\launcher\fcopy\FastCopy.exe /open_window /cmd=update /auto_close /error_stop /log /estimate $MF /to="$O\"
+"s: (sync)         同期（サイズ・日付）" C:\TOOLS\launcher\fcopy\FastCopy.exe /open_window /cmd=sync /auto_close /error_stop /log /estimate $MF /to="$O\"
+"m: (move)         移動（全上書き）"     C:\TOOLS\launcher\fcopy\FastCopy.exe /open_window /cmd=move /auto_close /error_stop /log /estimate $MF /to="$O\"
+"r: (remove)       全削除"               C:\TOOLS\launcher\fcopy\FastCopy.exe /open_window /cmd=delete /auto_close /error_stop /log /estimate $MF
+"---------------------"
+"z: このメニューを編集" C:/TOOLS/vim/gvim.exe $V"afx"/menu/copy.txt

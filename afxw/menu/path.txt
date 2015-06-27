@@ -1,0 +1,8 @@
+afx Copy Path
+"s: (Copy selected path)" &CLIP $QN$JD$MF
+"p: (Copy parent path)" &CLIP $QN$JD$P
+"n: (Copy select name)" &CLIP $QN$JD$MS
+"c: (Copy cygwin path)" $v"afx"\menu\path.bat $QN$JD$MF
+"o: (Copy other path)" C:\TOOLS\launchar\pthwy\pathway.exe $QN$JD$MF
+"---------------------"
+"z: Ç±ÇÃÉÅÉjÉÖÅ[Çï“èW" C:/TOOLS/vim/gvim.exe $V"afx"/menu/path.txt

@@ -1,0 +1,6 @@
+afx Zip
+"z: zip" C:\TOOLS\launcher\7z\7z.exe a -tzip -mx=7 "$IT"$W.zip"$I"ARCHIVE NAME?(ENTER '*.zip -pPW' TO SET PW)"" $MF
+"7: 7zip" C:\TOOLS\launcher\7z\7z.exe a -mx=9 "$IT"$W.7z"$I"ARCHIVE NAME?(ENTER '*.7z -pPW' TO SET PW)"" $MF
+"u: unzip" C:\TOOLS\launcher\7z\7z.exe x "$IT"$F"$I"ARCHIVE NAME?(ENTER '*.exe -pPW' TO SET PW)""
+"---------------------"
+"z: Ç±ÇÃÉÅÉjÉÖÅ[Çï“èW" C:/TOOLS/vim/gvim.exe $V"afx"/menu/zip.txt
