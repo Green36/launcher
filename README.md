@@ -3,14 +3,17 @@
 ## 使用するソフト
 
 ### あふ
-
+http://www.h5.dion.ne.jp/~akt/akt_afxw.htm
 
 
 ### CraftLaunch
-
-
+https://sites.google.com/site/craftware/clnch
 
 ### Fenrir
+
+
+### pathway
+http://www.vector.co.jp/magazine/softnews/140704/n1407041.html
 
 
 # フォルダ構成
